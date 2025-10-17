@@ -1,7 +1,3 @@
-PROJETORABBIT - CHECKPOINT 5 FIAP
-Disciplina: Programação de API com Microsserviços (.NET + RabbitMQ)
-Turma: 2TDSX
-
 -------------------------------------------
 DESCRIÇÃO DO PROJETO
 -------------------------------------------
